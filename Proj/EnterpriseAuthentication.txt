@@ -1,0 +1,7 @@
+Authentication File containing user credentials in below format
+UserName = Password 
+
+ruby=Ruby@123
+medplus=Medplus@123
+mp=Mp@123
+mh=Mh@123

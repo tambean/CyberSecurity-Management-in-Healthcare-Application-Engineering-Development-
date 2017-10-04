@@ -1,0 +1,9 @@
+Authentication File containing user credentials in below format
+UserName = Password 
+
+d=Asd@123
+d1=Asd@123
+l=Asd@123
+r=Asd@123
+i=Asd@123
+s=Asd@123
